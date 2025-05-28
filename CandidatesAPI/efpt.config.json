@@ -1,0 +1,110 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "CandidatesContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Entities",
+   "OutputContextPath": "Infrastructure",
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "CandidatesAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[_rnd_companies]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[_rnd_names]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[_rnd_streets]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[_rnd_surnames]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[admin_settings]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[amort_plan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[contracts]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[countries]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[currencies]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[customers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[departments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[employees]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[employees_departments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[exchange_rates]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[invoices]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[numbers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[payments]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
